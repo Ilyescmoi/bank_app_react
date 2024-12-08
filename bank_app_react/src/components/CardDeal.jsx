@@ -1,5 +1,5 @@
 ﻿import styles, {layout} from "../style.js";
-import {apple, card, google} from "../assets/index.js";
+import {card} from "../assets/index.js";
 import Button from "./Button.jsx";
 
 export const CardDeal = () => (
